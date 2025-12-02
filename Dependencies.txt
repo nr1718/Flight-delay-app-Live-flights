@@ -1,0 +1,17 @@
+Python 3.9+
+
+streamlit
+
+pandas
+
+numpy
+
+plotly
+
+scikit-learn
+
+joblib
+
+python-docx
+
+kaleido (required for chart images in DOCX)

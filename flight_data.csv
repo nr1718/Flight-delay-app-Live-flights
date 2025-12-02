@@ -1,0 +1,7 @@
+airline,origin,destination,sched_dep_hour,sched_arr_hour,distance,day_of_week,month,weather,delay_minutes
+AA,JFK,LAX,5,8,2475,1,1,Clear,10
+DL,LAX,JFK,8,11,2475,2,1,Rain,25
+UA,ORD,ATL,12,15,606,3,2,Clear,0
+SW,ATL,ORD,15,18,606,4,2,Snow,60
+AA,DFW,MIA,18,21,1121,5,3,Rain,5
+DL,LAX,ORD,21,0,1744,6,3,Clear,15
