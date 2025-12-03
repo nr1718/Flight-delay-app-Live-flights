@@ -1,12 +1,13 @@
 streamlit
 pandas
 numpy
-plotly
 scikit-learn
+plotly
+requests
 joblib
-python-docx
-kaleido
 pycountry
 folium
+streamlit-folium
+
 
 
