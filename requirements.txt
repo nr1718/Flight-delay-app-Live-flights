@@ -6,3 +6,5 @@ scikit-learn
 joblib
 python-docx
 kaleido
+pycountry
+
