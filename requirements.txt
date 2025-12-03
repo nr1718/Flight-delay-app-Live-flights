@@ -7,4 +7,6 @@ joblib
 python-docx
 kaleido
 pycountry
+folium
+
 
