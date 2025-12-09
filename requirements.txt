@@ -8,6 +8,8 @@ joblib
 pycountry
 folium
 streamlit-folium
+python-docx
+
 
 
 
